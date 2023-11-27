@@ -1,0 +1,32 @@
+{
+  "kind": "collectionType",
+  "collectionName": "transactions",
+  "info": {
+    "singularName": "transaction",
+    "pluralName": "transactions",
+    "displayName": "Transaction"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Seller": {
+      "type": "string",
+      "required": true
+    },
+    "Quantity": {
+      "type": "integer",
+      "required": true
+    },
+    "Status": {
+      "type": "enumeration",
+      "enum": [
+        "Invalid or Incomplete",
+        "Cancelled ",
+        "Refused",
+        "Authorised"
+      ]
+    }
+  }
+}
