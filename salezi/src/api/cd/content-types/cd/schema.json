@@ -1,0 +1,42 @@
+{
+  "kind": "collectionType",
+  "collectionName": "cds",
+  "info": {
+    "singularName": "cd",
+    "pluralName": "cds",
+    "displayName": "CD",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Name": {
+      "type": "string",
+      "required": true
+    },
+    "Price": {
+      "type": "integer",
+      "required": true
+    },
+    "Artist": {
+      "type": "string",
+      "required": true
+    },
+    "Quantity": {
+      "type": "integer",
+      "required": true,
+      "min": 0
+    },
+    "Style": {
+      "type": "enumeration",
+      "enum": [
+        "Rap",
+        "Alternative",
+        "Pop",
+        "Rock"
+      ]
+    }
+  }
+}
