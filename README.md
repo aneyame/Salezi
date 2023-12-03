@@ -1,7 +1,10 @@
 # Salezi
 
-## Roles
-tgvj
+## Roles & Permissions 
+Fnac Manager : Can view and edit all data.
+Has the authority to validate transactions initiated by sellers.
+Can access the Admin Panel.
+
 
 Fnac manager token :
 8bc88d34c856152bb8faad9ac13c3b9e37fe30f90b0bd0acdae093a8f34435ae9f821ff3edf1cc499c351aeb6b50f93c8e8fbb60ce804faf7afd208868a5f588bc02c648516a349897214d4ec3b2f69e9f01acf0e434dd0af252d4df9f6d2659a0a150be68f51094cf6dc17686f12bbc827d49598d4a7bb1a45b1e1b8e79fdbf
