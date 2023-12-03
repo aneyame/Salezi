@@ -15,6 +15,10 @@ Seller :
 - Can request new transactions.
 - Cannot access the Admin Panel.
 
+## Collections
+Products : informations about books, CDs and electronics
+Users : Super Admin, Fnac Manager and Seller
+
 
 
 Fnac manager token :
