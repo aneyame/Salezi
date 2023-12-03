@@ -35,7 +35,7 @@ npm run develop
 ```
 - Access the API at http://localhost:1337.
 ```sh
-(http://localhost:1337)
+http://localhost:1337
 ```
 
 Fnac manager token :
