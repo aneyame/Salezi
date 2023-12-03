@@ -19,6 +19,18 @@
 - Products : informations about books, CDs and electronics
 - Users : Super Admin, Fnac Manager and Seller
 
+## Getting started
+- Clone the repository from GitHub
+- Install dependencies
+  ```sh
+npm install
+- Set up the SQLite database.
+  ```sh
+npm run setup
+- Launch the Strapi server.
+  ```sh
+npm run develop
+
 
 
 Fnac manager token :
