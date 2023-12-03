@@ -1,9 +1,20 @@
 # Salezi
 
 ## Roles & Permissions 
-Fnac Manager : Can view and edit all data.
-Has the authority to validate transactions initiated by sellers.
-Can access the Admin Panel.
+Super Admin :
+- Has full access to all features and functionalities.
+- Has an access to the Admin Panel.
+  
+Fnac Manager : 
+- Can view and edit all data.
+- Has the authority to validate transactions initiated by sellers.
+- Has an access to the Admin Panel.
+
+Seller :
+- Can view and edit only their own products.
+- Can request new transactions.
+- Cannot access the Admin Panel.
+
 
 
 Fnac manager token :
