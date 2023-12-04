@@ -2,7 +2,7 @@
 
 ## Description
 
-Salezi is an API developped by Cloudy which offers an interface to manage the stocks and sales of products for each of our partner sellers.
+Salezi is an API developped by Cloudly which offers an interface to manage the stocks and sales of products for each of our partner sellers.
 
 ## Getting started
 - Clone the repository from GitHub
